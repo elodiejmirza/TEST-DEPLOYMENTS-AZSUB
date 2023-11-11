@@ -1,0 +1,46 @@
+<mxfile host="65bd71144e">
+    <diagram id="oWcGDkPn34F8LghIa7t2" name="Page-1">
+        <mxGraphModel dx="804" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="15" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/devops/Azure_DevOps.svg;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="80" width="64" height="64" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/identity/Azure_Active_Directory.svg;" vertex="1" parent="1">
+                    <mxGeometry x="360" y="16" width="70" height="64" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/identity/App_Registrations.svg;" vertex="1" parent="1">
+                    <mxGeometry x="280" y="90" width="63" height="64" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Bastions.svg;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="270" width="57.99999999999999" height="68" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Firewalls.svg;" vertex="1" parent="1">
+                    <mxGeometry x="450" y="250" width="71" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Virtual_Networks.svg;" vertex="1" parent="1">
+                    <mxGeometry x="140" y="380" width="67" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Route_Tables.svg;" vertex="1" parent="1">
+                    <mxGeometry x="290" y="440" width="64" height="62" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Network_Security_Groups.svg;" vertex="1" parent="1">
+                    <mxGeometry x="50" y="280" width="56.00000000000001" height="68" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Public_IP_Addresses.svg;" vertex="1" parent="1">
+                    <mxGeometry x="75" y="510" width="65" height="52" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/Network_Interfaces.svg;" vertex="1" parent="1">
+                    <mxGeometry x="70" y="430" width="68" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/security/Key_Vaults.svg;" vertex="1" parent="1">
+                    <mxGeometry x="480" y="372" width="68" height="68" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/security/Azure_Sentinel.svg;" vertex="1" parent="1">
+                    <mxGeometry x="224" y="570" width="56.00000000000001" height="68" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

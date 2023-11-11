@@ -1,0 +1,9 @@
+terraform {
+  cloud {
+    organization = "SoloSentry"
+
+    workspaces {
+      name = "TEST-DEPLOYMENTS-AZSUB-CLI-REMOTE-EXEC-OIDC"
+    }
+  }
+}
