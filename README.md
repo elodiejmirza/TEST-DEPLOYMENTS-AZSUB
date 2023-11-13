@@ -1,2 +1,2 @@
 # TEST-DEPLOYMENTS-AZSUB
-Not the org copy
+Not the Azure DevOps copy
